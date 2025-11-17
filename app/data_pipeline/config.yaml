@@ -1,0 +1,25 @@
+file_types:
+  - pdf
+  - docx
+
+min_sentence_length: 3
+
+cleaning:
+  remove_emails: true
+  remove_urls: true
+  remove_special_chars: true
+  remove_extra_spaces: true
+
+keywords:
+  skills:
+    - python
+    - java
+    - c++
+    - machine learning
+    - deep learning
+    - docker
+    - kubernetes
+    - cloud
+    - aws
+    - gcp
+    - azure
