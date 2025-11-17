@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+psycopg2-binary
+pydantic[dotenv]
+pydantic-settings
+aiofiles
+# ML Libraries
+spacy>=3.0
+scikit-learn>=1.0
+pandas>=1.3
+joblib>=1.1
+python-dateutil>=2.8
+regex>=2021.8.3
+pdfminer.six>=20201018
+python-docx
